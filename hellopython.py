@@ -2,17 +2,17 @@
 # ref: https://docs.python-guide.org/writing/style/
 
 # test on variable attr
-attr = True
+ATTR = True
 
 
 # Just check the value
-if attr:
+if ATTR:
     print('attr is truthy!')
 
 # or check for the opposite
-if not attr:
+if not ATTR:
     print('attr is falsey!')
 
 # or, since None is considered false, explicitly check for it
-if attr is None:
+if ATTR is None:
     print('attr is None!')
