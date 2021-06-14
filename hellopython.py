@@ -1,7 +1,7 @@
 # hello world
 # ref: https://docs.python-guide.org/writing/style/
 
-# test on variable
+# test on variable attr
 attr = True
 
 
