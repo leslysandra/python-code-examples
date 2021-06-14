@@ -1,5 +1,7 @@
 # hello world
 
+attr = TRUE
+
 # Just check the value
 if attr:
     print('attr is truthy!')
@@ -11,3 +13,6 @@ if not attr:
 # or, since None is considered false, explicitly check for it
 if attr is None:
     print('attr is None!')
+
+    
+# ref: https://docs.python-guide.org/writing/style/ 
