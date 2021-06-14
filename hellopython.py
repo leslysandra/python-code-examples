@@ -1,5 +1,7 @@
 # hello world
 
-def make_complex(*args):
-    x, y = args
-    return dict(**locals())
+if attr == True:
+    print('True!')
+
+if attr == None:
+    print('attr is None!')
