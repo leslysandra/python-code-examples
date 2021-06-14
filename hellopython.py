@@ -1,6 +1,10 @@
 # hello world
 # ref: https://docs.python-guide.org/writing/style/
 
+# test on variable
+attr = True
+
+
 # Just check the value
 if attr:
     print('attr is truthy!')
