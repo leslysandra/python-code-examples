@@ -1,6 +1,8 @@
 # hello world
 # ref: https://docs.python-guide.org/writing/style/
 
+# example on "Constants" "condition if-else"
+
 # test on variable ATTR
 ATTR = True
 
